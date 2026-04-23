@@ -2,4 +2,3 @@ cheese
 tomato
 salt
 cream
-rucola sprinkle
